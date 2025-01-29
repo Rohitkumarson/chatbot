@@ -1,3 +1,5 @@
+import utils.transport
+import utils.session
 from fastapi import FastAPI
 from router.chat_router import chat_routers 
 from fastapi.middleware.cors import CORSMiddleware
