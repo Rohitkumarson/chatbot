@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+langchain
+langchain_openai
+langchain_chroma
+langchain_community
+fuzzywuzzy
+python-dotenv
+edge-tts
+loguru
+requests
+beautifulsoup4
+aiosmtplib
+pydantic[email]
