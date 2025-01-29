@@ -206,7 +206,7 @@ async def text_to_speech(text: str, voice: str, websocket: WebSocket):
 
 
 SMTP_USERNAME = "rohitkumar1.eminence@gmail.com"  
-SMTP_PASSWORD = "gqjd ggic vjot uupt" 
+SMTP_PASSWORD = "" 
 SMTP_HOST = "smtp.gmail.com"            
 SMTP_PORT = 587  
 
